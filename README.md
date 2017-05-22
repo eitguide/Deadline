@@ -10,6 +10,9 @@ https://stats.stackexchange.com/questions/114385/what-is-the-difference-between-
 https://cambridgespark.com/content/tutorials/convolutional-neural-networks-with-keras/index.html
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/
 http://cs231n.github.io/convolutional-networks/
+
+Very very deep CNN:
+http://icml.cc/2016/tutorials/icml2016_tutorial_deep_residual_networks_kaiminghe.pdf
 - VGG
 - HOG
 - Một số nghiên cứu liên quan
